@@ -60,7 +60,7 @@ Créer des **expériences immersives et interactives**, aussi bien dans le **jeu
 
 ---
 
-# 🇬🇧 About Me
+# About Me
 
 I’m a **Game Designer and Game Developer** with a **full creation pipeline approach**:  
 from **gameplay design** to **2D/3D asset creation**, game systems development and **sound design**.
