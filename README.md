@@ -16,7 +16,7 @@
 ---
 
 ## À propos
-Je suis **game designer et développeur**, avec une approche **complète du pipeline de création** :  
+Je suis **game designer **  
 je conçois le **gameplay**, je crée les **assets 2D & 3D**, je développe les systèmes de jeu et je travaille le **sound design**.
 
 En parallèle, je réalise aussi des **sites web immersifs en 3D** avec **Three.js**, afin d’intégrer des expériences visuelles interactives directement sur le web.
@@ -62,7 +62,7 @@ Créer des **expériences immersives et interactives**, aussi bien dans le **jeu
 
 # About Me
 
-I’m a **Game Designer and Game Developer** with a **full creation pipeline approach**:  
+I’m a **Game Designer and Game Developer**  
 from **gameplay design** to **2D/3D asset creation**, game systems development and **sound design**.
 
 I also build **immersive 3D web experiences** using **Three.js**, bringing real-time 3D and interactivity to websites.
@@ -89,4 +89,3 @@ I also build **immersive 3D web experiences** using **Three.js**, bringing real-
 
 ---
 
-📌 *Work in progress — new projects coming soon…*
